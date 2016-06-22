@@ -41,7 +41,3 @@ Midair - https://www.playmidair.com/
 Adobe Photoshop CS6
 
 Visual Studio 2015
-
-## License
-
-The Unlicense
