@@ -38,6 +38,8 @@ Harabara Mais - http://www.dafont.com/harabara.font
 
 Midair - https://www.playmidair.com/
 
+Desktop background - unknown source
+
 Adobe Photoshop CS6
 
 Visual Studio 2015
