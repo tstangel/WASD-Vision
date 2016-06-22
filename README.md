@@ -1,4 +1,4 @@
-## WASD Viewer
+## WASD Vision
 
 A keyboard and mouse overlay for streamers
 
