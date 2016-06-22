@@ -1,0 +1,4 @@
+1.1 version
+* switched to target .NET 3.5 framework
++ new icons
++ assembly information
