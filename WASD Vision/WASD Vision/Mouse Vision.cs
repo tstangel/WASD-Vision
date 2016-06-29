@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,9 +18,11 @@ namespace WASD_Vision
             InitializeComponent();
             mouseHookCallbackSetup();
             PositionForm();
+            SetColors();
         }
 
         RamGecTools.MouseHook mouseHook = new RamGecTools.MouseHook();
+        Resource resource = new Resource();
 
         private bool MouseLeftDown = false;
         private bool MouseRightDown = false;
@@ -48,11 +51,11 @@ namespace WASD_Vision
 
             if (MouseRightDown)
             {
-                MouseImage.Image = Properties.Resources.Mouse_Left_Right_Down;
+                MouseImage.Image = resource.getImage("Mouse_Left_Right_Down");
             }
             else
             {
-                MouseImage.Image = Properties.Resources.Mouse_Left_Down;
+                MouseImage.Image = resource.getImage("Mouse_Left_Down");
             }
         }
 
@@ -62,11 +65,11 @@ namespace WASD_Vision
 
             if (MouseRightDown)
             {
-                MouseImage.Image = Properties.Resources.Mouse_Right_Down;
+                MouseImage.Image = resource.getImage("Mouse_Right_Down");
             }
             else
             {
-                MouseImage.Image = Properties.Resources.Mouse_Default;
+                MouseImage.Image = resource.getImage("Mouse_Up");
             }
         }
 
@@ -76,11 +79,11 @@ namespace WASD_Vision
 
             if (MouseLeftDown)
             {
-                MouseImage.Image = Properties.Resources.Mouse_Left_Right_Down;
+                MouseImage.Image = resource.getImage("Mouse_Left_Right_Down");
             }
             else
             {
-                MouseImage.Image = Properties.Resources.Mouse_Right_Down;
+                MouseImage.Image = resource.getImage("Mouse_Right_Down");
             }
         }
 
@@ -90,11 +93,11 @@ namespace WASD_Vision
 
             if (MouseLeftDown)
             {
-                MouseImage.Image = Properties.Resources.Mouse_Left_Down;
+                MouseImage.Image = resource.getImage("Mouse_Left_Down");
             }
             else
             {
-                MouseImage.Image = Properties.Resources.Mouse_Default;
+                MouseImage.Image = resource.getImage("Mouse_Up");
             }
         }
 
@@ -105,9 +108,11 @@ namespace WASD_Vision
             Application.Exit();
         }
 
-        private void MouseForm_Load(object sender, EventArgs e)
+        public void SetColors()
         {
-
+            MouseImage.Image = resource.getImage("Mouse_Up");
+            BackColor = resource.getColorKey();
+            TransparencyKey = resource.getColorKey();
         }
     }
 }

@@ -1,25 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WASD_Vision
 {
     public partial class KeyboardForm : Form
     {
+        private MenuForm menuForm;
+
         public KeyboardForm()
         {
             InitializeComponent();
             keyboardHookCallbackSetup();
             PositionForm();
+            SetColors();
+        }
+
+        public void Set_Form_References(MenuForm instanceMenuForm)
+        {
+            menuForm = instanceMenuForm;
+        }
+
+        public void SetColors()
+        {
+            UI_Key_One.Image = resource.getImage("One_Up");
+            UI_Key_Two.Image = resource.getImage("Two_Up");
+            UI_Key_Three.Image = resource.getImage("Three_Up");
+            UI_Key_Four.Image = resource.getImage("Four_Up");
+            UI_Key_Q.Image = resource.getImage("Q_Up");
+            UI_Key_W.Image = resource.getImage("W_Up");
+            UI_Key_E.Image = resource.getImage("E_Up");
+            UI_Key_A.Image = resource.getImage("A_Up");
+            UI_Key_S.Image = resource.getImage("S_Up");
+            UI_Key_D.Image = resource.getImage("D_Up");
+            UI_Key_Z.Image = resource.getImage("Z_Up");
+            UI_Key_X.Image = resource.getImage("X_Up");
+            UI_Key_C.Image = resource.getImage("C_Up");
+            UI_Key_Space.Image = resource.getImage("Space_Up");
+
+            BackColor = resource.getColorKey();
+            TransparencyKey = resource.getColorKey();
         }
 
         RamGecTools.KeyboardHook keyboardHook = new RamGecTools.KeyboardHook();
+        Resource resource = new Resource();
 
         private void PositionForm()
         {
@@ -44,46 +69,46 @@ namespace WASD_Vision
             switch (key.ToString())
             {
                 case "KEY_1":
-                    UI_Key_One.Image = Properties.Resources.One_Up;
+                    UI_Key_One.Image = resource.getImage("One_Up");
                     break;
                 case "KEY_2":
-                    UI_Key_Two.Image = Properties.Resources.Two_Up;
+                    UI_Key_Two.Image = resource.getImage("Two_Up");
                     break;
                 case "KEY_3":
-                    UI_Key_Three.Image = Properties.Resources.Three_Up;
+                    UI_Key_Three.Image = resource.getImage("Three_Up");
                     break;
                 case "KEY_4":
-                    UI_Key_Four.Image = Properties.Resources.Four_Up;
+                    UI_Key_Four.Image = resource.getImage("Four_Up");
                     break;
                 case "KEY_Q":
-                    UI_Key_Q.Image = Properties.Resources.Q_Up;
+                    UI_Key_Q.Image = resource.getImage("Q_Up");
                     break;
                 case "KEY_W":
-                    UI_Key_W.Image = Properties.Resources.W_Up;
+                    UI_Key_W.Image = resource.getImage("W_Up");
                     break;
                 case "KEY_E":
-                    UI_Key_E.Image = Properties.Resources.E_Up;
+                    UI_Key_E.Image = resource.getImage("E_Up");
                     break;
                 case "KEY_A":
-                    UI_Key_A.Image = Properties.Resources.A_Up;
+                    UI_Key_A.Image = resource.getImage("A_Up");
                     break;
                 case "KEY_S":
-                    UI_Key_S.Image = Properties.Resources.S_Up;
+                    UI_Key_S.Image = resource.getImage("S_Up");
                     break;
                 case "KEY_D":
-                    UI_Key_D.Image = Properties.Resources.D_Up;
+                    UI_Key_D.Image = resource.getImage("D_Up");
                     break;
                 case "KEY_Z":
-                    UI_Key_Z.Image = Properties.Resources.Z_Up;
+                    UI_Key_Z.Image = resource.getImage("Z_Up");
                     break;
                 case "KEY_X":
-                    UI_Key_X.Image = Properties.Resources.X_Up;
+                    UI_Key_X.Image = resource.getImage("X_Up");
                     break;
                 case "KEY_C":
-                    UI_Key_C.Image = Properties.Resources.C_Up;
+                    UI_Key_C.Image = resource.getImage("C_Up");
                     break;
                 case "SPACE":
-                    UI_Key_Space.Image = Properties.Resources.Space_Up;
+                    UI_Key_Space.Image = resource.getImage("Space_Up");
                     break;
             }
         }
@@ -93,46 +118,46 @@ namespace WASD_Vision
             switch (key.ToString())
             {
                 case "KEY_1":
-                    UI_Key_One.Image = Properties.Resources.One_Down;
+                    UI_Key_One.Image = resource.getImage("One_Down");
                     break;
                 case "KEY_2":
-                    UI_Key_Two.Image = Properties.Resources.Two_Down;
+                    UI_Key_Two.Image = resource.getImage("Two_Down");
                     break;
                 case "KEY_3":
-                    UI_Key_Three.Image = Properties.Resources.Three_Down;
+                    UI_Key_Three.Image = resource.getImage("Three_Down");
                     break;
                 case "KEY_4":
-                    UI_Key_Four.Image = Properties.Resources.Four_Down;
+                    UI_Key_Four.Image = resource.getImage("Four_Down");
                     break;
                 case "KEY_Q":
-                    UI_Key_Q.Image = Properties.Resources.Q_Down;
+                    UI_Key_Q.Image = resource.getImage("Q_Down");
                     break;
                 case "KEY_W":
-                    UI_Key_W.Image = Properties.Resources.W_Down;
+                    UI_Key_W.Image = resource.getImage("W_Down");
                     break;
                 case "KEY_E":
-                    UI_Key_E.Image = Properties.Resources.E_Down;
+                    UI_Key_E.Image = resource.getImage("E_Down");
                     break;
                 case "KEY_A":
-                    UI_Key_A.Image = Properties.Resources.A_Down;
+                    UI_Key_A.Image = resource.getImage("A_Down");
                     break;
                 case "KEY_S":
-                    UI_Key_S.Image = Properties.Resources.S_Down;
+                    UI_Key_S.Image = resource.getImage("S_Down");
                     break;
                 case "KEY_D":
-                    UI_Key_D.Image = Properties.Resources.D_Down;
+                    UI_Key_D.Image = resource.getImage("D_Down");
                     break;
                 case "KEY_Z":
-                    UI_Key_Z.Image = Properties.Resources.Z_Down;
+                    UI_Key_Z.Image = resource.getImage("Z_Down");
                     break;
                 case "KEY_X":
-                    UI_Key_X.Image = Properties.Resources.X_Down;
+                    UI_Key_X.Image = resource.getImage("X_Down");
                     break;
                 case "KEY_C":
-                    UI_Key_C.Image = Properties.Resources.C_Down;
+                    UI_Key_C.Image = resource.getImage("C_Down");
                     break;
                 case "SPACE":
-                    UI_Key_Space.Image = Properties.Resources.Space_Down;
+                    UI_Key_Space.Image = resource.getImage("Space_Down");
                     break;
             }
         }
@@ -145,9 +170,14 @@ namespace WASD_Vision
             Application.Exit();
         }
 
-        private void KeyboardForm_Load(object sender, EventArgs e)
+        private void Tool_Strip_Menu_Item_Colors_Click(object sender, EventArgs e)
         {
+            menuForm.Show();
+        }
 
+        private void Tool_Strip_Menu_Item_Close_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

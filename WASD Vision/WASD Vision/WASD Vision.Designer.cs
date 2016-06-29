@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(KeyboardForm));
             this.UI_Key_One = new System.Windows.Forms.PictureBox();
             this.UI_Key_Two = new System.Windows.Forms.PictureBox();
@@ -43,6 +44,10 @@
             this.UI_Key_X = new System.Windows.Forms.PictureBox();
             this.UI_Key_C = new System.Windows.Forms.PictureBox();
             this.UI_Key_Space = new System.Windows.Forms.PictureBox();
+            this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.Tool_Strip_Menu_Item_Colors = new System.Windows.Forms.ToolStripMenuItem();
+            this.Tool_Strip_Menu_Item_Close = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_One)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_Two)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_Three)).BeginInit();
@@ -57,12 +62,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_X)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_C)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_Space)).BeginInit();
+            this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // UI_Key_One
             // 
-            this.UI_Key_One.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_One.Image = global::WASD_Vision.Properties.Resources.One_Up;
+            this.UI_Key_One.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_One.Location = new System.Drawing.Point(37, 38);
             this.UI_Key_One.Name = "UI_Key_One";
             this.UI_Key_One.Size = new System.Drawing.Size(135, 117);
@@ -71,8 +76,7 @@
             // 
             // UI_Key_Two
             // 
-            this.UI_Key_Two.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_Two.Image = global::WASD_Vision.Properties.Resources.Two_Up;
+            this.UI_Key_Two.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_Two.Location = new System.Drawing.Point(172, 38);
             this.UI_Key_Two.Name = "UI_Key_Two";
             this.UI_Key_Two.Size = new System.Drawing.Size(141, 117);
@@ -81,8 +85,7 @@
             // 
             // UI_Key_Three
             // 
-            this.UI_Key_Three.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_Three.Image = global::WASD_Vision.Properties.Resources.Three_Up;
+            this.UI_Key_Three.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_Three.Location = new System.Drawing.Point(313, 38);
             this.UI_Key_Three.Name = "UI_Key_Three";
             this.UI_Key_Three.Size = new System.Drawing.Size(136, 117);
@@ -91,8 +94,7 @@
             // 
             // UI_Key_Four
             // 
-            this.UI_Key_Four.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_Four.Image = global::WASD_Vision.Properties.Resources.Four_Up;
+            this.UI_Key_Four.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_Four.Location = new System.Drawing.Point(449, 38);
             this.UI_Key_Four.Name = "UI_Key_Four";
             this.UI_Key_Four.Size = new System.Drawing.Size(197, 117);
@@ -101,8 +103,7 @@
             // 
             // UI_Key_Q
             // 
-            this.UI_Key_Q.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_Q.Image = ((System.Drawing.Image)(resources.GetObject("UI_Key_Q.Image")));
+            this.UI_Key_Q.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_Q.Location = new System.Drawing.Point(37, 155);
             this.UI_Key_Q.Name = "UI_Key_Q";
             this.UI_Key_Q.Size = new System.Drawing.Size(182, 114);
@@ -111,8 +112,7 @@
             // 
             // UI_Key_W
             // 
-            this.UI_Key_W.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_W.Image = ((System.Drawing.Image)(resources.GetObject("UI_Key_W.Image")));
+            this.UI_Key_W.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_W.Location = new System.Drawing.Point(219, 155);
             this.UI_Key_W.Name = "UI_Key_W";
             this.UI_Key_W.Size = new System.Drawing.Size(143, 114);
@@ -121,8 +121,7 @@
             // 
             // UI_Key_E
             // 
-            this.UI_Key_E.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_E.Image = ((System.Drawing.Image)(resources.GetObject("UI_Key_E.Image")));
+            this.UI_Key_E.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_E.Location = new System.Drawing.Point(362, 155);
             this.UI_Key_E.Name = "UI_Key_E";
             this.UI_Key_E.Size = new System.Drawing.Size(282, 114);
@@ -131,8 +130,7 @@
             // 
             // UI_Key_A
             // 
-            this.UI_Key_A.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_A.Image = ((System.Drawing.Image)(resources.GetObject("UI_Key_A.Image")));
+            this.UI_Key_A.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_A.Location = new System.Drawing.Point(37, 269);
             this.UI_Key_A.Name = "UI_Key_A";
             this.UI_Key_A.Size = new System.Drawing.Size(182, 124);
@@ -141,8 +139,7 @@
             // 
             // UI_Key_S
             // 
-            this.UI_Key_S.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_S.Image = global::WASD_Vision.Properties.Resources.S_Up;
+            this.UI_Key_S.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_S.Location = new System.Drawing.Point(219, 269);
             this.UI_Key_S.Name = "UI_Key_S";
             this.UI_Key_S.Size = new System.Drawing.Size(143, 124);
@@ -151,8 +148,7 @@
             // 
             // UI_Key_D
             // 
-            this.UI_Key_D.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_D.Image = global::WASD_Vision.Properties.Resources.D_Up;
+            this.UI_Key_D.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_D.Location = new System.Drawing.Point(362, 269);
             this.UI_Key_D.Name = "UI_Key_D";
             this.UI_Key_D.Size = new System.Drawing.Size(282, 124);
@@ -161,8 +157,7 @@
             // 
             // UI_Key_Z
             // 
-            this.UI_Key_Z.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_Z.Image = global::WASD_Vision.Properties.Resources.Z_Up;
+            this.UI_Key_Z.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_Z.Location = new System.Drawing.Point(37, 393);
             this.UI_Key_Z.Name = "UI_Key_Z";
             this.UI_Key_Z.Size = new System.Drawing.Size(229, 132);
@@ -171,8 +166,7 @@
             // 
             // UI_Key_X
             // 
-            this.UI_Key_X.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_X.Image = global::WASD_Vision.Properties.Resources.X_Up;
+            this.UI_Key_X.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_X.Location = new System.Drawing.Point(266, 393);
             this.UI_Key_X.Name = "UI_Key_X";
             this.UI_Key_X.Size = new System.Drawing.Size(158, 132);
@@ -181,8 +175,7 @@
             // 
             // UI_Key_C
             // 
-            this.UI_Key_C.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_C.Image = global::WASD_Vision.Properties.Resources.C_Up;
+            this.UI_Key_C.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_C.Location = new System.Drawing.Point(424, 393);
             this.UI_Key_C.Name = "UI_Key_C";
             this.UI_Key_C.Size = new System.Drawing.Size(220, 132);
@@ -191,19 +184,48 @@
             // 
             // UI_Key_Space
             // 
-            this.UI_Key_Space.BackColor = System.Drawing.Color.Lime;
-            this.UI_Key_Space.Image = global::WASD_Vision.Properties.Resources.Space_Up;
+            this.UI_Key_Space.BackColor = System.Drawing.Color.Transparent;
             this.UI_Key_Space.Location = new System.Drawing.Point(324, 525);
             this.UI_Key_Space.Name = "UI_Key_Space";
             this.UI_Key_Space.Size = new System.Drawing.Size(320, 114);
             this.UI_Key_Space.TabIndex = 13;
             this.UI_Key_Space.TabStop = false;
             // 
-            // keys
+            // notifyIcon1
+            // 
+            this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
+            this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
+            this.notifyIcon1.Text = "WASD Vision Options";
+            this.notifyIcon1.Visible = true;
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.Tool_Strip_Menu_Item_Colors,
+            this.Tool_Strip_Menu_Item_Close});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(153, 70);
+            // 
+            // Tool_Strip_Menu_Item_Colors
+            // 
+            this.Tool_Strip_Menu_Item_Colors.Name = "Tool_Strip_Menu_Item_Colors";
+            this.Tool_Strip_Menu_Item_Colors.Size = new System.Drawing.Size(152, 22);
+            this.Tool_Strip_Menu_Item_Colors.Text = "Change Color";
+            this.Tool_Strip_Menu_Item_Colors.TextAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.Tool_Strip_Menu_Item_Colors.Click += new System.EventHandler(this.Tool_Strip_Menu_Item_Colors_Click);
+            // 
+            // Tool_Strip_Menu_Item_Close
+            // 
+            this.Tool_Strip_Menu_Item_Close.Name = "Tool_Strip_Menu_Item_Close";
+            this.Tool_Strip_Menu_Item_Close.Size = new System.Drawing.Size(152, 22);
+            this.Tool_Strip_Menu_Item_Close.Text = "Close";
+            this.Tool_Strip_Menu_Item_Close.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Tool_Strip_Menu_Item_Close.Click += new System.EventHandler(this.Tool_Strip_Menu_Item_Close_Click);
+            // 
+            // KeyboardForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Lime;
             this.ClientSize = new System.Drawing.Size(645, 638);
             this.Controls.Add(this.UI_Key_Space);
             this.Controls.Add(this.UI_Key_C);
@@ -222,12 +244,10 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.Name = "keys";
+            this.Name = "KeyboardForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "WASD Vision";
-            this.TransparencyKey = System.Drawing.Color.Lime;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.KeyboardForm_FormClosing);
-            this.Load += new System.EventHandler(this.KeyboardForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_One)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_Two)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_Three)).EndInit();
@@ -242,6 +262,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_X)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_C)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_Space)).EndInit();
+            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -262,6 +283,10 @@
         private System.Windows.Forms.PictureBox UI_Key_X;
         private System.Windows.Forms.PictureBox UI_Key_C;
         private System.Windows.Forms.PictureBox UI_Key_Space;
+        private System.Windows.Forms.NotifyIcon notifyIcon1;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem Tool_Strip_Menu_Item_Colors;
+        private System.Windows.Forms.ToolStripMenuItem Tool_Strip_Menu_Item_Close;
     }
 }
 

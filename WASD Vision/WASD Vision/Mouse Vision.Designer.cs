@@ -36,7 +36,6 @@
             // MouseImage
             // 
             this.MouseImage.BackColor = System.Drawing.Color.Transparent;
-            this.MouseImage.Image = global::WASD_Vision.Properties.Resources.Mouse_Default;
             this.MouseImage.Location = new System.Drawing.Point(0, 0);
             this.MouseImage.Name = "MouseImage";
             this.MouseImage.Size = new System.Drawing.Size(597, 615);
@@ -47,7 +46,6 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Lime;
             this.ClientSize = new System.Drawing.Size(597, 615);
             this.Controls.Add(this.MouseImage);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -56,9 +54,7 @@
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Mouse Vision";
-            this.TransparencyKey = System.Drawing.Color.Lime;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MouseForm_FormClosing);
-            this.Load += new System.EventHandler(this.MouseForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.MouseImage)).EndInit();
             this.ResumeLayout(false);
 
