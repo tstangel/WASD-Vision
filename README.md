@@ -1,4 +1,4 @@
-## WASD Vision
+## WASD Vision v0.1.2
 
 A keyboard and mouse overlay for streamers
 
@@ -18,17 +18,30 @@ A keyboard and mouse overlay for streamers
 
 6. Select "Mouse Vision" as window (if you would like to show the mouse overlay)
 
-7. Right-click on the new source and select "Filters"
+7. Right-click on the new source(s) and select "Filters"
 
 8. Click the plus icon and select "Color Key"
 
-9. Adjust opacity to your liking
+9. Change the "Key Color Type" to "Custom Color"
 
-10. Enjoy!
+10. Click "Select Color" button and copy+paste the follow color code into the HTML field
+
+| Your Selected Color | Color Code |
+| ------------------- | ---------- |
+| Turquoise (Default) | #00FF00    |
+| Pink                | #FF00FF    |
+| White               | #D3D3D3    |
+| Orange              | #DAA520    |
+| Yellow              | #FFD700    |
+| Black               | #000000    |
+| Purple              | #7B68EE    |
+| Green               | #00FF00    |
 
 ## Usage
 
-Double click wasd-vision.exe
+1. Double click wasd-vision.exe
+
+2. Right-click the tray icon and select "Change Color"
 
 ## Credits
 
