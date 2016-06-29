@@ -7,6 +7,7 @@ namespace WASD_Vision
 {
     public partial class KeyboardForm : Form
     {
+        private MouseForm mouseForm;
         private MenuForm menuForm;
 
         public KeyboardForm()
@@ -17,8 +18,9 @@ namespace WASD_Vision
             SetColors();
         }
 
-        public void Set_Form_References(MenuForm instanceMenuForm)
+        public void Set_Form_References(MouseForm instanceMouseForm, MenuForm instanceMenuForm)
         {
+            mouseForm = instanceMouseForm;
             menuForm = instanceMenuForm;
         }
 
@@ -172,7 +174,11 @@ namespace WASD_Vision
 
         private void Tool_Strip_Menu_Item_Colors_Click(object sender, EventArgs e)
         {
+            Focus();
+            mouseForm.Focus();
             menuForm.Show();
+            menuForm.Focus();
+
         }
 
         private void Tool_Strip_Menu_Item_Close_Click(object sender, EventArgs e)

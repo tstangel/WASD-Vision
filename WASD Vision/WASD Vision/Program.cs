@@ -21,7 +21,7 @@ namespace WASD_Vision
             var mouseForm = new MouseForm();
             var menuForm = new MenuForm();
 
-            keyboardForm.Set_Form_References(menuForm);
+            keyboardForm.Set_Form_References(mouseForm, menuForm);
             menuForm.Set_Form_References(keyboardForm, mouseForm);
 
             keyboardForm.Show();
