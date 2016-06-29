@@ -156,7 +156,7 @@ namespace WASD_Vision
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(27)))), ((int)(((byte)(27)))));
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(296, 214);
+            this.ClientSize = new System.Drawing.Size(295, 214);
             this.Controls.Add(this.UI_Menu_Close);
             this.Controls.Add(this.UI_Option_Yellow);
             this.Controls.Add(this.UI_Option_Purple);
