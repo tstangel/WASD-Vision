@@ -44,8 +44,8 @@
             this.UI_Key_X = new System.Windows.Forms.PictureBox();
             this.UI_Key_C = new System.Windows.Forms.PictureBox();
             this.UI_Key_Space = new System.Windows.Forms.PictureBox();
-            this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.trayIcon = new System.Windows.Forms.NotifyIcon(this.components);
+            this.contextMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.Tool_Strip_Menu_Item_Colors = new System.Windows.Forms.ToolStripMenuItem();
             this.Tool_Strip_Menu_Item_Close = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_One)).BeginInit();
@@ -62,7 +62,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_X)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_C)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_Space)).BeginInit();
-            this.contextMenuStrip1.SuspendLayout();
+            this.contextMenu.SuspendLayout();
             this.SuspendLayout();
             // 
             // UI_Key_One
@@ -191,25 +191,25 @@
             this.UI_Key_Space.TabIndex = 13;
             this.UI_Key_Space.TabStop = false;
             // 
-            // notifyIcon1
+            // trayIcon
             // 
-            this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
-            this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
-            this.notifyIcon1.Text = "WASD Vision Options";
-            this.notifyIcon1.Visible = true;
+            this.trayIcon.ContextMenuStrip = this.contextMenu;
+            this.trayIcon.Icon = ((System.Drawing.Icon)(resources.GetObject("trayIcon.Icon")));
+            this.trayIcon.Text = "WASD Vision Options";
+            this.trayIcon.Visible = true;
             // 
-            // contextMenuStrip1
+            // contextMenu
             // 
-            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.contextMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.Tool_Strip_Menu_Item_Colors,
             this.Tool_Strip_Menu_Item_Close});
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(153, 70);
+            this.contextMenu.Name = "contextMenuStrip1";
+            this.contextMenu.Size = new System.Drawing.Size(148, 48);
             // 
             // Tool_Strip_Menu_Item_Colors
             // 
             this.Tool_Strip_Menu_Item_Colors.Name = "Tool_Strip_Menu_Item_Colors";
-            this.Tool_Strip_Menu_Item_Colors.Size = new System.Drawing.Size(152, 22);
+            this.Tool_Strip_Menu_Item_Colors.Size = new System.Drawing.Size(147, 22);
             this.Tool_Strip_Menu_Item_Colors.Text = "Change Color";
             this.Tool_Strip_Menu_Item_Colors.TextAlign = System.Drawing.ContentAlignment.TopLeft;
             this.Tool_Strip_Menu_Item_Colors.Click += new System.EventHandler(this.Tool_Strip_Menu_Item_Colors_Click);
@@ -217,7 +217,7 @@
             // Tool_Strip_Menu_Item_Close
             // 
             this.Tool_Strip_Menu_Item_Close.Name = "Tool_Strip_Menu_Item_Close";
-            this.Tool_Strip_Menu_Item_Close.Size = new System.Drawing.Size(152, 22);
+            this.Tool_Strip_Menu_Item_Close.Size = new System.Drawing.Size(147, 22);
             this.Tool_Strip_Menu_Item_Close.Text = "Close";
             this.Tool_Strip_Menu_Item_Close.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.Tool_Strip_Menu_Item_Close.Click += new System.EventHandler(this.Tool_Strip_Menu_Item_Close_Click);
@@ -262,7 +262,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_X)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_C)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.UI_Key_Space)).EndInit();
-            this.contextMenuStrip1.ResumeLayout(false);
+            this.contextMenu.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -283,8 +283,8 @@
         private System.Windows.Forms.PictureBox UI_Key_X;
         private System.Windows.Forms.PictureBox UI_Key_C;
         private System.Windows.Forms.PictureBox UI_Key_Space;
-        private System.Windows.Forms.NotifyIcon notifyIcon1;
-        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.NotifyIcon trayIcon;
+        private System.Windows.Forms.ContextMenuStrip contextMenu;
         private System.Windows.Forms.ToolStripMenuItem Tool_Strip_Menu_Item_Colors;
         private System.Windows.Forms.ToolStripMenuItem Tool_Strip_Menu_Item_Close;
     }

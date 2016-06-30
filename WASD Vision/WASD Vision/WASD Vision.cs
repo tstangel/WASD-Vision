@@ -166,6 +166,8 @@ namespace WASD_Vision
 
         private void KeyboardForm_FormClosing(object sender, FormClosingEventArgs e)
         {
+            trayIcon.Visible = false;
+
             // there's no harm to call Uninstall method repeatedly even if hooks aren't installed
             keyboardHook.Uninstall();
 
@@ -178,7 +180,6 @@ namespace WASD_Vision
             mouseForm.Focus();
             menuForm.Show();
             menuForm.Focus();
-
         }
 
         private void Tool_Strip_Menu_Item_Close_Click(object sender, EventArgs e)
