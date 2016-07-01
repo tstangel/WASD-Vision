@@ -1,4 +1,4 @@
-## WASD Vision v0.1.2
+## WASD Vision v1.0
 
 A keyboard and mouse overlay for streamers
 
