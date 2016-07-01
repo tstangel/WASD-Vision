@@ -821,99 +821,99 @@
     <value>..\resources\images\styles\Style_Yellow_Z_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Black_Mouse_Left_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Black_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Black_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Black_Mouse_Left_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Black_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Black_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Black_Mouse_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Black_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Black_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Black_Mouse_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Black_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Black_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Green_Mouse_Left_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Green_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Green_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Green_Mouse_Left_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Green_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Green_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Green_Mouse_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Green_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Green_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Green_Mouse_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Green_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Green_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Orange_Mouse_Left_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Orange_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Orange_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Orange_Mouse_Left_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Orange_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Orange_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Orange_Mouse_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Orange_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Orange_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Orange_Mouse_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Orange_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Orange_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Pink_Mouse_Left_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Pink_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Pink_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Pink_Mouse_Left_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Pink_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Pink_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Pink_Mouse_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Pink_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Pink_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Pink_Mouse_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Pink_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Pink_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Purple_Mouse_Left_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Purple_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Purple_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Purple_Mouse_Left_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Purple_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Purple_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Purple_Mouse_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Purple_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Purple_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Purple_Mouse_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Purple_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Purple_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Turquoise_Mouse_Left_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Turquoise_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Turquoise_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Turquoise_Mouse_Left_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Turquoise_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Turquoise_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Turquoise_Mouse_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Turquoise_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Turquoise_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Turquoise_Mouse_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Turquoise_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Turquoise_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_White_Mouse_Left_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_White_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_White_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_White_Mouse_Left_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_White_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_White_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_White_Mouse_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_White_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_White_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_White_Mouse_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_White_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_White_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Yellow_Mouse_Left_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Yellow_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Yellow_Mouse_Left_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Yellow_Mouse_Left_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Yellow_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Yellow_Mouse_Left_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Yellow_Mouse_Right_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Yellow_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Yellow_Mouse_Right_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Style_Yellow_Mouse_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\Style_Yellow_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\resources\images\styles\Style_Yellow_Mouse_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
