@@ -6,7 +6,7 @@ A keyboard and mouse overlay for streamers
 
 ## Installation
 
-1. <a href="https://tstangel.github.io/WASD-Vision/">Download</a>
+1. <a href="https://github.com/tstangel/WASD-Vision/releases/tag/1.0.0">Download</a>
 
 2. Run
 
