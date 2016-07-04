@@ -148,7 +148,7 @@ namespace WASD_Vision
             this.UI_Menu_Close.Size = new System.Drawing.Size(57, 55);
             this.UI_Menu_Close.TabIndex = 9;
             this.UI_Menu_Close.TabStop = false;
-            this.UI_Menu_Close.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.UI_Menu_Close.Click += new System.EventHandler(this.UI_Menu_Close_Click);
             // 
             // MenuForm
             // 
@@ -186,7 +186,7 @@ namespace WASD_Vision
 
         #endregion
 
-        private System.Windows.Forms.PictureBox UI_Option_Turquoise;
+        private PictureBox UI_Option_Turquoise;
         private PictureBox UI_Option_Pink;
         private PictureBox UI_Option_Orange;
         private PictureBox UI_Option_Green;

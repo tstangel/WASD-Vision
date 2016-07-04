@@ -30,8 +30,10 @@ namespace WASD_Vision
         private void PositionForm()
         {
             Rectangle workingArea = Screen.GetWorkingArea(this);
-            Location = new Point(workingArea.Right - Size.Width,
-                                 workingArea.Bottom - Size.Height);
+            Location = new Point(
+                workingArea.Right - Size.Width,
+                workingArea.Bottom - Size.Height
+            );
         }
 
         private void mouseHookCallbackSetup()

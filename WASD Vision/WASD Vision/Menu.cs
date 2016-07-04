@@ -75,7 +75,7 @@ namespace WASD_Vision
             Settings_Color_Update("Yellow");
         }
 
-        private void pictureBox1_Click(object sender, System.EventArgs e)
+        private void UI_Menu_Close_Click(object sender, System.EventArgs e)
         {
             Hide();
         }

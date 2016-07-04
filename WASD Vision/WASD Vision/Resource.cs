@@ -14,7 +14,7 @@ namespace WASD_Vision
 
         public Image getImage(string objectName)
         {
-            return (Image)Properties.Resources.ResourceManager.GetObject("Style_" + Properties.Settings.Default.Color + "_" + objectName);
+            return (Image) Properties.Resources.ResourceManager.GetObject("Style_" + Properties.Settings.Default.Color + "_" + objectName);
         }
 
         public Color getColorKey()

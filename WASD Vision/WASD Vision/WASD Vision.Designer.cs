@@ -203,7 +203,7 @@
             this.contextMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.Tool_Strip_Menu_Item_Colors,
             this.Tool_Strip_Menu_Item_Close});
-            this.contextMenu.Name = "contextMenuStrip1";
+            this.contextMenu.Name = "contextMenu";
             this.contextMenu.Size = new System.Drawing.Size(148, 48);
             // 
             // Tool_Strip_Menu_Item_Colors
