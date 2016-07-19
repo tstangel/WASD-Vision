@@ -34,5 +34,282 @@ namespace WASD_Vision.Properties {
                 this["Color"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("WASD")]
+        public string Layout {
+            get {
+                return ((string)(this["Layout"]));
+            }
+            set {
+                this["Layout"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_One_Visible {
+            get {
+                return ((string)(this["Layout_Custom_One_Visible"]));
+            }
+            set {
+                this["Layout_Custom_One_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_Two_Visible {
+            get {
+                return ((string)(this["Layout_Custom_Two_Visible"]));
+            }
+            set {
+                this["Layout_Custom_Two_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_Three_Visible {
+            get {
+                return ((string)(this["Layout_Custom_Three_Visible"]));
+            }
+            set {
+                this["Layout_Custom_Three_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_Four_Visible {
+            get {
+                return ((string)(this["Layout_Custom_Four_Visible"]));
+            }
+            set {
+                this["Layout_Custom_Four_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_Five_Visible {
+            get {
+                return ((string)(this["Layout_Custom_Five_Visible"]));
+            }
+            set {
+                this["Layout_Custom_Five_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_Q_Visible {
+            get {
+                return ((string)(this["Layout_Custom_Q_Visible"]));
+            }
+            set {
+                this["Layout_Custom_Q_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public string Layout_Custom_W_Visible {
+            get {
+                return ((string)(this["Layout_Custom_W_Visible"]));
+            }
+            set {
+                this["Layout_Custom_W_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_E_Visible {
+            get {
+                return ((string)(this["Layout_Custom_E_Visible"]));
+            }
+            set {
+                this["Layout_Custom_E_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_R_Visible {
+            get {
+                return ((string)(this["Layout_Custom_R_Visible"]));
+            }
+            set {
+                this["Layout_Custom_R_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_T_Visible {
+            get {
+                return ((string)(this["Layout_Custom_T_Visible"]));
+            }
+            set {
+                this["Layout_Custom_T_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public string Layout_Custom_A_Visible {
+            get {
+                return ((string)(this["Layout_Custom_A_Visible"]));
+            }
+            set {
+                this["Layout_Custom_A_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public string Layout_Custom_S_Visible {
+            get {
+                return ((string)(this["Layout_Custom_S_Visible"]));
+            }
+            set {
+                this["Layout_Custom_S_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public string Layout_Custom_D_Visible {
+            get {
+                return ((string)(this["Layout_Custom_D_Visible"]));
+            }
+            set {
+                this["Layout_Custom_D_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_F_Visible {
+            get {
+                return ((string)(this["Layout_Custom_F_Visible"]));
+            }
+            set {
+                this["Layout_Custom_F_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_G_Visible {
+            get {
+                return ((string)(this["Layout_Custom_G_Visible"]));
+            }
+            set {
+                this["Layout_Custom_G_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_Z_Visible {
+            get {
+                return ((string)(this["Layout_Custom_Z_Visible"]));
+            }
+            set {
+                this["Layout_Custom_Z_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_X_Visible {
+            get {
+                return ((string)(this["Layout_Custom_X_Visible"]));
+            }
+            set {
+                this["Layout_Custom_X_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_C_Visible {
+            get {
+                return ((string)(this["Layout_Custom_C_Visible"]));
+            }
+            set {
+                this["Layout_Custom_C_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_V_Visible {
+            get {
+                return ((string)(this["Layout_Custom_V_Visible"]));
+            }
+            set {
+                this["Layout_Custom_V_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public string Layout_Custom_B_Visible {
+            get {
+                return ((string)(this["Layout_Custom_B_Visible"]));
+            }
+            set {
+                this["Layout_Custom_B_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public string Layout_Custom_Space_Visible {
+            get {
+                return ((string)(this["Layout_Custom_Space_Visible"]));
+            }
+            set {
+                this["Layout_Custom_Space_Visible"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("<?xml version=\"1.0\" encoding=\"utf-16\"?>\r\n<ArrayOfString xmlns:xsi=\"http://www.w3." +
+            "org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" />")]
+        public global::System.Collections.Specialized.StringCollection Protected_Words {
+            get {
+                return ((global::System.Collections.Specialized.StringCollection)(this["Protected_Words"]));
+            }
+            set {
+                this["Protected_Words"] = value;
+            }
+        }
     }
 }

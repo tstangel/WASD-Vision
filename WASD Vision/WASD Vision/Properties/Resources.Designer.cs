@@ -71,11 +71,658 @@ namespace WASD_Vision.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_A_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_A_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_B_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_B_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_C_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_C_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_D_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_D_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_E_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_E_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_F_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_F_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_Five_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_Five_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_Four_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_Four_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_G_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_G_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_One_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_One_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_Q_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_Q_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_R_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_R_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_S_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_S_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_Space_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_Space_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_T_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_T_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_Three_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_Three_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_Two_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_Two_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_V_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_V_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_W_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_W_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_X_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_X_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_ESDF_Z_Visible {
+            get {
+                return ResourceManager.GetString("Layout_ESDF_Z_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_A_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_A_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_B_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_B_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_C_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_C_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_D_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_D_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_E_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_E_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_F_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_F_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_QWER_Five_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_Five_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_Four_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_Four_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_G_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_G_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_One_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_One_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_Q_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_Q_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_R_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_R_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_S_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_S_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_Space_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_Space_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_QWER_T_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_T_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_Three_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_Three_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_Two_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_Two_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_V_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_V_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_W_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_W_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_X_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_X_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_QWER_Z_Visible {
+            get {
+                return ResourceManager.GetString("Layout_QWER_Z_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_A_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_A_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_WASD_B_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_B_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_C_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_C_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_D_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_D_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_E_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_E_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_WASD_F_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_F_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_WASD_Five_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_Five_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_Four_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_Four_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_WASD_G_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_G_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_One_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_One_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_Q_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_Q_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_WASD_R_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_R_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_S_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_S_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_Space_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_Space_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_WASD_T_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_T_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_Three_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_Three_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_Two_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_Two_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string Layout_WASD_V_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_V_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_W_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_W_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_X_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_X_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string Layout_WASD_Z_Visible {
+            get {
+                return ResourceManager.GetString("Layout_WASD_Z_Visible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap menu {
             get {
                 object obj = ResourceManager.GetObject("menu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap option_Custom_off {
+            get {
+                object obj = ResourceManager.GetObject("option_Custom_off", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap option_Custom_on {
+            get {
+                object obj = ResourceManager.GetObject("option_Custom_on", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap option_ESDF_off {
+            get {
+                object obj = ResourceManager.GetObject("option_ESDF_off", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap option_ESDF_on {
+            get {
+                object obj = ResourceManager.GetObject("option_ESDF_on", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap option_QWER_off {
+            get {
+                object obj = ResourceManager.GetObject("option_QWER_off", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap option_QWER_on {
+            get {
+                object obj = ResourceManager.GetObject("option_QWER_on", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap option_WASD_off {
+            get {
+                object obj = ResourceManager.GetObject("option_WASD_off", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap option_WASD_on {
+            get {
+                object obj = ResourceManager.GetObject("option_WASD_on", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -96,6 +743,26 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Black_A_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Black_A_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_B_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_B_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_B_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_B_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -172,6 +839,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_F_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_F_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_F_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_F_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Five_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Five_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Five_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Five_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Black_Four_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Black_Four_Down", resourceCulture);
@@ -192,9 +899,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Black_Mouse_Left_Down {
+        internal static System.Drawing.Bitmap Style_Black_G_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Black_Mouse_Left_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Black_G_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -202,9 +909,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Black_Mouse_Left_Right_Down {
+        internal static System.Drawing.Bitmap Style_Black_G_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Black_Mouse_Left_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Black_G_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -212,9 +919,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Black_Mouse_Right_Down {
+        internal static System.Drawing.Bitmap Style_Black_Left_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Black_Mouse_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Black_Left_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -222,9 +929,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Black_Mouse_Up {
+        internal static System.Drawing.Bitmap Style_Black_Left_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Black_Mouse_Up", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Black_Left_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -272,6 +979,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_R_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_R_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_R_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_R_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Right_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Right_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Right_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Right_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Black_S_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Black_S_Down", resourceCulture);
@@ -312,6 +1059,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_T_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_T_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_T_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_T_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Black_Three_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Black_Three_Down", resourceCulture);
@@ -325,6 +1092,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Black_Three_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Black_Three_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Thumb_Back_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Thumb_Back_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Thumb_Back_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Thumb_Back_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Thumb_Forward_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Thumb_Forward_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Thumb_Forward_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Thumb_Forward_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -352,6 +1159,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_V_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_V_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_V_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_V_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Black_W_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Black_W_Down", resourceCulture);
@@ -365,6 +1192,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Black_W_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Black_W_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Wheel_Back {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Wheel_Back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Wheel_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Wheel_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Wheel_Forward {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Wheel_Forward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Black_Wheel_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Black_Wheel_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -425,6 +1292,26 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Green_A_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Green_A_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_B_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_B_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_B_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_B_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -501,6 +1388,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_F_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_F_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_F_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_F_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Five_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Five_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Five_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Five_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Green_Four_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Green_Four_Down", resourceCulture);
@@ -521,9 +1448,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Green_Mouse_Left_Down {
+        internal static System.Drawing.Bitmap Style_Green_G_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Green_Mouse_Left_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Green_G_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -531,9 +1458,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Green_Mouse_Left_Right_Down {
+        internal static System.Drawing.Bitmap Style_Green_G_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Green_Mouse_Left_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Green_G_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -541,9 +1468,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Green_Mouse_Right_Down {
+        internal static System.Drawing.Bitmap Style_Green_Left_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Green_Mouse_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Green_Left_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -551,9 +1478,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Green_Mouse_Up {
+        internal static System.Drawing.Bitmap Style_Green_Left_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Green_Mouse_Up", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Green_Left_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -601,6 +1528,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_R_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_R_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_R_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_R_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Right_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Right_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Right_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Right_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Green_S_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Green_S_Down", resourceCulture);
@@ -641,6 +1608,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_T_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_T_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_T_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_T_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Green_Three_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Green_Three_Down", resourceCulture);
@@ -654,6 +1641,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Green_Three_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Green_Three_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Thumb_Back_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Thumb_Back_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Thumb_Back_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Thumb_Back_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Thumb_Forward_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Thumb_Forward_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Thumb_Forward_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Thumb_Forward_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -681,6 +1708,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_V_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_V_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_V_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_V_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Green_W_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Green_W_Down", resourceCulture);
@@ -694,6 +1741,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Green_W_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Green_W_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Wheel_Back {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Wheel_Back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Wheel_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Wheel_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Wheel_Forward {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Wheel_Forward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Green_Wheel_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Green_Wheel_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -754,6 +1841,26 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Orange_A_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Orange_A_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_B_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_B_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_B_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_B_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -830,6 +1937,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_F_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_F_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_F_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_F_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Five_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Five_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Five_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Five_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Orange_Four_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Orange_Four_Down", resourceCulture);
@@ -850,9 +1997,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Orange_Mouse_Left_Down {
+        internal static System.Drawing.Bitmap Style_Orange_G_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Orange_Mouse_Left_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Orange_G_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -860,9 +2007,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Orange_Mouse_Left_Right_Down {
+        internal static System.Drawing.Bitmap Style_Orange_G_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Orange_Mouse_Left_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Orange_G_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -870,9 +2017,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Orange_Mouse_Right_Down {
+        internal static System.Drawing.Bitmap Style_Orange_Left_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Orange_Mouse_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Orange_Left_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -880,9 +2027,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Orange_Mouse_Up {
+        internal static System.Drawing.Bitmap Style_Orange_Left_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Orange_Mouse_Up", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Orange_Left_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -930,6 +2077,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_R_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_R_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_R_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_R_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Right_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Right_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Right_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Right_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Orange_S_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Orange_S_Down", resourceCulture);
@@ -970,6 +2157,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_T_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_T_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_T_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_T_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Orange_Three_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Orange_Three_Down", resourceCulture);
@@ -983,6 +2190,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Orange_Three_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Orange_Three_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Thumb_Back_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Thumb_Back_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Thumb_Back_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Thumb_Back_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Thumb_Forward_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Thumb_Forward_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Thumb_Forward_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Thumb_Forward_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1010,6 +2257,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_V_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_V_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_V_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_V_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Orange_W_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Orange_W_Down", resourceCulture);
@@ -1023,6 +2290,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Orange_W_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Orange_W_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Wheel_Back {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Wheel_Back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Wheel_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Wheel_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Wheel_Forward {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Wheel_Forward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Orange_Wheel_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Orange_Wheel_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1083,6 +2390,26 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Pink_A_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Pink_A_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_B_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_B_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_B_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_B_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1159,6 +2486,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_F_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_F_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_F_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_F_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Five_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Five_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Five_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Five_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Pink_Four_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Pink_Four_Down", resourceCulture);
@@ -1179,9 +2546,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Pink_Mouse_Left_Down {
+        internal static System.Drawing.Bitmap Style_Pink_G_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Pink_Mouse_Left_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Pink_G_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1189,9 +2556,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Pink_Mouse_Left_Right_Down {
+        internal static System.Drawing.Bitmap Style_Pink_G_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Pink_Mouse_Left_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Pink_G_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1199,9 +2566,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Pink_Mouse_Right_Down {
+        internal static System.Drawing.Bitmap Style_Pink_Left_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Pink_Mouse_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Pink_Left_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1209,9 +2576,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Pink_Mouse_Up {
+        internal static System.Drawing.Bitmap Style_Pink_Left_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Pink_Mouse_Up", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Pink_Left_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1259,6 +2626,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_R_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_R_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_R_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_R_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Right_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Right_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Right_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Right_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Pink_S_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Pink_S_Down", resourceCulture);
@@ -1299,6 +2706,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_T_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_T_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_T_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_T_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Pink_Three_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Pink_Three_Down", resourceCulture);
@@ -1312,6 +2739,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Pink_Three_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Pink_Three_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Thumb_Back_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Thumb_Back_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Thumb_Back_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Thumb_Back_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Thumb_Forward_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Thumb_Forward_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Thumb_Forward_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Thumb_Forward_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1339,6 +2806,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_V_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_V_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_V_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_V_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Pink_W_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Pink_W_Down", resourceCulture);
@@ -1352,6 +2839,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Pink_W_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Pink_W_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Wheel_Back {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Wheel_Back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Wheel_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Wheel_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Wheel_Forward {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Wheel_Forward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Pink_Wheel_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Pink_Wheel_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1412,6 +2939,26 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Purple_A_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Purple_A_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_B_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_B_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_B_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_B_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1488,6 +3035,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_F_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_F_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_F_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_F_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Five_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Five_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Five_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Five_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Purple_Four_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Purple_Four_Down", resourceCulture);
@@ -1508,9 +3095,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Purple_Mouse_Left_Down {
+        internal static System.Drawing.Bitmap Style_Purple_G_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Purple_Mouse_Left_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Purple_G_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1518,9 +3105,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Purple_Mouse_Left_Right_Down {
+        internal static System.Drawing.Bitmap Style_Purple_G_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Purple_Mouse_Left_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Purple_G_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1528,9 +3115,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Purple_Mouse_Right_Down {
+        internal static System.Drawing.Bitmap Style_Purple_Left_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Purple_Mouse_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Purple_Left_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1538,9 +3125,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Purple_Mouse_Up {
+        internal static System.Drawing.Bitmap Style_Purple_Left_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Purple_Mouse_Up", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Purple_Left_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1588,6 +3175,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_R_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_R_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_R_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_R_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Right_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Right_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Right_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Right_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Purple_S_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Purple_S_Down", resourceCulture);
@@ -1628,6 +3255,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_T_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_T_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_T_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_T_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Purple_Three_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Purple_Three_Down", resourceCulture);
@@ -1641,6 +3288,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Purple_Three_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Purple_Three_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Thumb_Back_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Thumb_Back_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Thumb_Back_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Thumb_Back_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Thumb_Forward_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Thumb_Forward_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Thumb_Forward_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Thumb_Forward_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1668,6 +3355,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_V_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_V_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_V_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_V_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Purple_W_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Purple_W_Down", resourceCulture);
@@ -1681,6 +3388,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Purple_W_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Purple_W_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Wheel_Back {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Wheel_Back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Wheel_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Wheel_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Wheel_Forward {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Wheel_Forward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Purple_Wheel_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Purple_Wheel_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1741,6 +3488,26 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Turquoise_A_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Turquoise_A_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_B_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_B_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_B_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_B_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1817,6 +3584,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_F_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_F_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_F_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_F_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Five_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Five_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Five_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Five_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Turquoise_Four_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Turquoise_Four_Down", resourceCulture);
@@ -1837,9 +3644,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Turquoise_Mouse_Left_Down {
+        internal static System.Drawing.Bitmap Style_Turquoise_G_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Turquoise_Mouse_Left_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Turquoise_G_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1847,9 +3654,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Turquoise_Mouse_Left_Right_Down {
+        internal static System.Drawing.Bitmap Style_Turquoise_G_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Turquoise_Mouse_Left_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Turquoise_G_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1857,9 +3664,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Turquoise_Mouse_Right_Down {
+        internal static System.Drawing.Bitmap Style_Turquoise_Left_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Turquoise_Mouse_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Turquoise_Left_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1867,9 +3674,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Turquoise_Mouse_Up {
+        internal static System.Drawing.Bitmap Style_Turquoise_Left_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Turquoise_Mouse_Up", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Turquoise_Left_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1917,6 +3724,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_R_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_R_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_R_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_R_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Right_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Right_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Right_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Right_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Turquoise_S_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Turquoise_S_Down", resourceCulture);
@@ -1957,6 +3804,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_T_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_T_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_T_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_T_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Turquoise_Three_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Turquoise_Three_Down", resourceCulture);
@@ -1970,6 +3837,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Turquoise_Three_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Turquoise_Three_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Thumb_Back_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Thumb_Back_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Thumb_Back_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Thumb_Back_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Thumb_Forward_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Thumb_Forward_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Thumb_Forward_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Thumb_Forward_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1997,6 +3904,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_V_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_V_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_V_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_V_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Turquoise_W_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Turquoise_W_Down", resourceCulture);
@@ -2010,6 +3937,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Turquoise_W_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Turquoise_W_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Wheel_Back {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Wheel_Back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Wheel_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Wheel_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Wheel_Forward {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Wheel_Forward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Turquoise_Wheel_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Turquoise_Wheel_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2070,6 +4037,26 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_White_A_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_White_A_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_B_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_B_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_B_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_B_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2146,6 +4133,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_White_F_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_F_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_F_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_F_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Five_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Five_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Five_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Five_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_White_Four_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_White_Four_Down", resourceCulture);
@@ -2166,9 +4193,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_White_Mouse_Left_Down {
+        internal static System.Drawing.Bitmap Style_White_G_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_White_Mouse_Left_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_White_G_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2176,9 +4203,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_White_Mouse_Left_Right_Down {
+        internal static System.Drawing.Bitmap Style_White_G_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_White_Mouse_Left_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_White_G_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2186,9 +4213,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_White_Mouse_Right_Down {
+        internal static System.Drawing.Bitmap Style_White_Left_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_White_Mouse_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_White_Left_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2196,9 +4223,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_White_Mouse_Up {
+        internal static System.Drawing.Bitmap Style_White_Left_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_White_Mouse_Up", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_White_Left_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2246,6 +4273,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_White_R_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_R_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_R_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_R_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Right_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Right_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Right_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Right_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_White_S_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_White_S_Down", resourceCulture);
@@ -2286,6 +4353,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_White_T_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_T_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_T_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_T_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_White_Three_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_White_Three_Down", resourceCulture);
@@ -2299,6 +4386,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_White_Three_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_White_Three_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Thumb_Back_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Thumb_Back_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Thumb_Back_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Thumb_Back_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Thumb_Forward_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Thumb_Forward_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Thumb_Forward_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Thumb_Forward_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2326,6 +4453,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_White_V_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_V_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_V_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_V_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_White_W_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_White_W_Down", resourceCulture);
@@ -2339,6 +4486,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_White_W_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_White_W_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Wheel_Back {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Wheel_Back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Wheel_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Wheel_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Wheel_Forward {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Wheel_Forward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_White_Wheel_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_White_Wheel_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2399,6 +4586,26 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Yellow_A_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Yellow_A_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_B_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_B_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_B_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_B_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2475,6 +4682,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_F_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_F_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_F_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_F_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Five_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Five_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Five_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Five_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Yellow_Four_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Yellow_Four_Down", resourceCulture);
@@ -2495,9 +4742,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Yellow_Mouse_Left_Down {
+        internal static System.Drawing.Bitmap Style_Yellow_G_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Yellow_Mouse_Left_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Yellow_G_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2505,9 +4752,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Yellow_Mouse_Left_Right_Down {
+        internal static System.Drawing.Bitmap Style_Yellow_G_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Yellow_Mouse_Left_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Yellow_G_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2515,9 +4762,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Yellow_Mouse_Right_Down {
+        internal static System.Drawing.Bitmap Style_Yellow_Left_Down {
             get {
-                object obj = ResourceManager.GetObject("Style_Yellow_Mouse_Right_Down", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Yellow_Left_Down", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2525,9 +4772,9 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Style_Yellow_Mouse_Up {
+        internal static System.Drawing.Bitmap Style_Yellow_Left_Up {
             get {
-                object obj = ResourceManager.GetObject("Style_Yellow_Mouse_Up", resourceCulture);
+                object obj = ResourceManager.GetObject("Style_Yellow_Left_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2575,6 +4822,46 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_R_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_R_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_R_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_R_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Right_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Right_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Right_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Right_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Yellow_S_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Yellow_S_Down", resourceCulture);
@@ -2615,6 +4902,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_T_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_T_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_T_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_T_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Yellow_Three_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Yellow_Three_Down", resourceCulture);
@@ -2628,6 +4935,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Yellow_Three_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Yellow_Three_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Thumb_Back_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Thumb_Back_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Thumb_Back_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Thumb_Back_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Thumb_Forward_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Thumb_Forward_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Thumb_Forward_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Thumb_Forward_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2655,6 +5002,26 @@ namespace WASD_Vision.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_V_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_V_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_V_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_V_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Style_Yellow_W_Down {
             get {
                 object obj = ResourceManager.GetObject("Style_Yellow_W_Down", resourceCulture);
@@ -2668,6 +5035,46 @@ namespace WASD_Vision.Properties {
         internal static System.Drawing.Bitmap Style_Yellow_W_Up {
             get {
                 object obj = ResourceManager.GetObject("Style_Yellow_W_Up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Wheel_Back {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Wheel_Back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Wheel_Down {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Wheel_Down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Wheel_Forward {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Wheel_Forward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Style_Yellow_Wheel_Up {
+            get {
+                object obj = ResourceManager.GetObject("Style_Yellow_Wheel_Up", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

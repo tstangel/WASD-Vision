@@ -53,10 +53,15 @@ namespace RamGecTools
         public event MouseHookCallback RightButtonDown;
         public event MouseHookCallback RightButtonUp;
         public event MouseHookCallback MouseMove;
-        public event MouseHookCallback MouseWheel;
+        public event MouseHookCallback MouseWheelForward;
+        public event MouseHookCallback MouseWheelBack;
         public event MouseHookCallback DoubleClick;
         public event MouseHookCallback MiddleButtonDown;
         public event MouseHookCallback MiddleButtonUp;
+        public event MouseHookCallback XButton1Down;
+        public event MouseHookCallback XButton1Up;
+        public event MouseHookCallback XButton2Down;
+        public event MouseHookCallback XButton2Up;
         #endregion
 
         /// <summary>
@@ -110,6 +115,9 @@ namespace RamGecTools
         /// </summary>
         private IntPtr HookFunc(int nCode, IntPtr wParam, IntPtr lParam)
         {
+            // https://blogs.msdn.microsoft.com/toub/2006/05/03/low-level-mouse-hook-in-c/
+            MSLLHOOKSTRUCT hookStruct = (MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT));
+
             // parse system messages
             if (nCode >= 0)
             {
@@ -129,8 +137,16 @@ namespace RamGecTools
                     if (MouseMove != null)
                         MouseMove((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
                 if (MouseMessages.WM_MOUSEWHEEL == (MouseMessages)wParam)
-                    if (MouseWheel != null)
-                        MouseWheel((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
+                    if(hookStruct.mouseData == (int)(MouseData.MOUSEWHEELFORWARD))
+                    {
+                        if (MouseWheelForward != null)
+                            MouseWheelForward((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
+                    }
+                    else if(hookStruct.mouseData == unchecked((uint)MouseData.MOUSEWHEELBACK))
+                    {
+                        if (MouseWheelBack != null)
+                            MouseWheelBack((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
+                    }
                 if (MouseMessages.WM_LBUTTONDBLCLK == (MouseMessages)wParam)
                     if (DoubleClick != null)
                         DoubleClick((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
@@ -140,6 +156,28 @@ namespace RamGecTools
                 if (MouseMessages.WM_MBUTTONUP == (MouseMessages)wParam)
                     if (MiddleButtonUp != null)
                         MiddleButtonUp((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
+                if (MouseMessages.WM_XBUTTONDOWN == (MouseMessages)wParam)
+                    if (hookStruct.mouseData == (int)(MouseData.XBUTTON1))
+                    {
+                        if (XButton1Down != null)
+                            XButton1Down((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
+                    }
+                    else if (hookStruct.mouseData == (int)(MouseData.XBUTTON2))
+                    {
+                        if (XButton2Down != null)
+                            XButton2Down((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
+                    }
+                if (MouseMessages.WM_XBUTTONUP == (MouseMessages)wParam)
+                    if (hookStruct.mouseData == (int)(MouseData.XBUTTON1))
+                    {
+                        if (XButton1Up != null)
+                            XButton1Up((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
+                    }
+                    else if (hookStruct.mouseData == (int)(MouseData.XBUTTON2))
+                    {
+                        if (XButton2Up != null)
+                            XButton2Up((MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT)));
+                    }
             }
             return CallNextHookEx(hookID, nCode, wParam, lParam);
         }
@@ -157,7 +195,17 @@ namespace RamGecTools
             WM_RBUTTONUP = 0x0205,
             WM_LBUTTONDBLCLK = 0x0203,
             WM_MBUTTONDOWN = 0x0207,
-            WM_MBUTTONUP = 0x0208
+            WM_MBUTTONUP = 0x0208,
+            WM_XBUTTONDOWN = 0x020B,
+            WM_XBUTTONUP = 0x020C
+        }
+
+        private enum MouseData
+        {
+            XBUTTON1 = 131072,
+            XBUTTON2 = 65536,
+            MOUSEWHEELFORWARD = 7864320,
+            MOUSEWHEELBACK = unchecked((int)4287102976)
         }
 
         [StructLayout(LayoutKind.Sequential)]

@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Drawing;
-using System.Diagnostics;
-using System.Resources;
 
 namespace WASD_Vision
 {
@@ -9,12 +7,22 @@ namespace WASD_Vision
     {
         public Resource()
         {
-            
+            // Nothing needed
+        }
+
+        public String GetString(string stringName)
+        {
+            return Properties.Resources.ResourceManager.GetString(stringName);
         }
 
         public Image getImage(string objectName)
         {
-            return (Image) Properties.Resources.ResourceManager.GetObject("Style_" + Properties.Settings.Default.Color + "_" + objectName);
+            return (Image)Properties.Resources.ResourceManager.GetObject(objectName);
+        }
+
+        public Image getStyledImage(string objectName)
+        {
+            return getImage("Style_" + Properties.Settings.Default.Color + "_" + objectName);
         }
 
         public Color getColorKey()
